@@ -43,6 +43,9 @@ sidebar:
       info:
         - item: Table Tennis
           link:
+        
+        - item: Riding
+          link:
 
 career-profile:
     title: My Profile
@@ -58,7 +61,7 @@ education:
     info:
       - degree: MSc in Computer Science
         university: China University of Petroleum (East China)
-        time: 2022 - 2025
+        time: 2022 - Present
         details: |
           Under supervised by Mingwen Shao.
       - degree: BSc in Computer Science
