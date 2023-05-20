@@ -1,9 +1,8 @@
 # IDEs
 .idea/
-
+#public/
 # Hugo
 resources/
-public/
 jsconfig.json
 node_modules/
 go.sum
