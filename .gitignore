@@ -1,7 +1,8 @@
-# IDEs
-.idea/
-
-# Hugo
-resources/
-public/
-assets/jsconfig.json
+**/themes/
+demo/
+.hugo/*
+!.hugo/version
+.hugo_build.lock
+/node_modules
+.devcontainer
+exampleSite/public/
