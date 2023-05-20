@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Hsiao-Tung Tan, Xiaodong Tan'
+    twitter: 'PrimeXIN'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,16 +34,16 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Hsiao-Tung Tan. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
