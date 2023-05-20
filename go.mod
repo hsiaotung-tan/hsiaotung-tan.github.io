@@ -1,5 +1,5 @@
-module github.com/wangchucheng/hugo-eureka-starters
+module hsiaotung-tan.github.io
 
-go 1.16
+go 1.20
 
-require wangchucheng.com/hugo-eureka v0.9.3 // indirect
+require github.com/lxndrblz/anatole v1.13.0 // indirect
