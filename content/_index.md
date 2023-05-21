@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Homepage
+date: 2023-5-21
 type: landing
 
 sections:
@@ -139,7 +139,6 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
     design:
       columns: '2'
       view: card
