@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-### I'm Xiaodong Tan, currently a 3rd year Master's student in Computer Science and Technology at China University of Petroleum (East China). Before that, I received my Bachelor's degree at Shandong University of Science and Technology. 
+# I'm Xiaodong Tan, currently a 3rd year Master's student in Computer Science and Technology at China University of Petroleum (East China). Before that, I received my Bachelor's degree at Shandong University of Science and Technology. 
 
-### My research interest includes computer vision, multimodal learning and bioinformatics. I'm open to collaboration.
+# My research interest includes computer vision, multimodal learning and bioinformatics. I'm open to collaboration.
 
 
 # 🔥 News
