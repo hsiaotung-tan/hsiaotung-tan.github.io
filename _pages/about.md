@@ -30,19 +30,23 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/hylora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/document/10557690)
 
 **Xiaodong Tan**, Mingwen Shao, Yuanjian Qiao, Tiyao Liu, Xiangyong Cao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=_SI0lcsAAAAJ&citation_for_view=_SI0lcsAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='_SI0lcsAAAAJ:u-x6o8ySG0sC'></span></strong>
+***IEEE Transactions on Geoscience and Remote Sensing***
+
+[**Paper**](../papers/Low-Rank_Prompt-Guided_Transformer_for_Hyperspectral_Image_Denoising-1.pdf) <strong><span class='show_paper_citations' data='_SI0lcsAAAAJ:u-x6o8ySG0sC'></span></strong>
 - We propose a Hyperspectral Denoising Transformer using Low-Rank Prompt (HyLoRa), simultaneously taking the spatial self-similarity and spectral low-rank property into account for HSI denoising. 
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [Uncertainty Aware Diffusion Model for Real-World Image Dehazing](../papers/UNCERTAINTY_AWARE_DIFFUSION_MODEL_FOR_REAL_WORLD_IMAGE.pdf), Yuanjian Qiao, Mingwen Shao, **Xiaodong Tan**, Lingzhuang Meng in proceedings of ***ICMLC 2024***
+
+- [Model-aware prompt tuning with deep adpative feature enhancement](../papers/Modal-aware%20prompt%20tuning%20with%20deep%20adaptive%20feature%20enhancement.pdf), Haonan Wang, Mingwen Shao, **Xiaodong Tan**, Lixu Zhang in ***Computers and Electrical Engineering***
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
