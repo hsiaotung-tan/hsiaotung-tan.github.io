@@ -44,17 +44,17 @@ redirect_from:
 </div>
 </div>
 
-- [Uncertainty Aware Diffusion Model for Real-World Image Dehazing](../papers/UNCERTAINTY_AWARE_DIFFUSION_MODEL_FOR_REAL_WORLD_IMAGE.pdf), Yuanjian Qiao, Mingwen Shao, **Xiaodong Tan**, Lingzhuang Meng in proceedings of ***ICMLC 2024***
+- [Uncertainty Aware Diffusion Model for Real-World Image Dehazing](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/ICMLC.pdf), Yuanjian Qiao, Mingwen Shao, **Xiaodong Tan**, Lingzhuang Meng in proceedings of ***ICMLC 2024***
 
-- [Model-aware prompt tuning with deep adpative feature enhancement](../papers/Modal-aware%20prompt%20tuning%20with%20deep%20adaptive%20feature%20enhancement.pdf), Haonan Wang, Mingwen Shao, **Xiaodong Tan**, Lixu Zhang in ***Computers and Electrical Engineering***
+- [Model-aware prompt tuning with deep adpative feature enhancement](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Modal-aware%20prompt%20tuning%20with%20deep%20adaptive%20feature%20enhancement.pdf), Haonan Wang, Mingwen Shao, **Xiaodong Tan**, Lixu Zhang in ***Computers and Electrical Engineering***
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *Sep 2022 - Present*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *Sep 2018 - Jun 2022*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep 2022 - Present*, M.Sc., China University of Petroleum (East China). 
+- *Sep 2018 - Jun 2022*, B.Eng., Shandong University of Science and Technology. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
