@@ -44,9 +44,16 @@ redirect_from:
 </div>
 </div>
 
-- [Uncertainty Aware Diffusion Model for Real-World Image Dehazing](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/ICMLC.pdf), Yuanjian Qiao, Mingwen Shao, **Xiaodong Tan**, Lingzhuang Meng in proceedings of ***ICMLC 2024***
+- [Uncertainty Aware Diffusion Model for Real-World Image Dehazing](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/ICMLC.pdf), Yuanjian Qiao, Mingwen Shao, **Xiaodong Tan**, Lingzhuang Meng in proceedings of ***ICMLC 2024***.
 
-- [Model-aware prompt tuning with deep adpative feature enhancement](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Modal-aware%20prompt%20tuning%20with%20deep%20adaptive%20feature%20enhancement.pdf), Haonan Wang, Mingwen Shao, **Xiaodong Tan**, Lixu Zhang in ***Computers and Electrical Engineering***
+- [Model-aware prompt tuning with deep adpative feature enhancement](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Modal-aware%20prompt%20tuning%20with%20deep%20adaptive%20feature%20enhancement.pdf), Haonan Wang, Mingwen Shao, **Xiaodong Tan**, Lixu Zhang in ***Computers and Electrical Engineering***.
+
+- [Predicting small molecule-miRNA associations using matrix enhancement and collaborative double matrix completion](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Predicting_small_molecule_BSPC.pdf), Tiyao Liu, Shudong Wang, Yuanyuan Zhang, Chuanru Ren, Yunyin Li, **Xiaodong Tan** and Shanchen Pang. Undergoing review in ***Biomedical Signal Processing and Control***.
+
+
+- [Truncated Arctangent Rank Minimization and Double-strategy Neighborhood Constraint Graph Inference for Drug-Disease Association prediction](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Truncated_Arctangent_Rank_JBI%20.pdf), Tiyao Liu, Shudong Wang, Shanchen Pang and **Xiaodong Tan**. Undergoing review in ***Journal of Biomedical Informatics***.
+
+- [MWMF-GLRW: Using Smart Model to Accurately Predict Noncoding RNA Interactions for Healthy Consumption](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/MWMF-GLRW_TCE.pdf), Tiyao Liu, Shudong Wang, Yawu Zhao, **Xiaodong Tan**, Shanchen Pang. Undergoing review in ***IEEE Transactions on Consumer Electronics***.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
