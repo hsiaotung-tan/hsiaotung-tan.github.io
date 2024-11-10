@@ -39,7 +39,7 @@ redirect_from:
 
 ***IEEE Transactions on Geoscience and Remote Sensing***
 
-[**Paper**](../papers/Low-Rank_Prompt-Guided_Transformer_for_Hyperspectral_Image_Denoising-1.pdf) <strong><span class='show_paper_citations' data='_SI0lcsAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Low-Rank_Prompt-Guided_Transformer_for_Hyperspectral_Image_Denoising-1.pdf) <strong><span class='show_paper_citations' data='_SI0lcsAAAAJ:u-x6o8ySG0sC'></span></strong>
 - We propose a Hyperspectral Denoising Transformer using Low-Rank Prompt (HyLoRa), simultaneously taking the spatial self-similarity and spectral low-rank property into account for HSI denoising. 
 </div>
 </div>
@@ -56,8 +56,9 @@ redirect_from:
 - [MWMF-GLRW: Using Smart Model to Accurately Predict Noncoding RNA Interactions for Healthy Consumption](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/MWMF-GLRW_TCE.pdf), Tiyao Liu, Shudong Wang, Yawu Zhao, **Xiaodong Tan**, Shanchen Pang. Undergoing review in ***IEEE Transactions on Consumer Electronics***.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Dec 2020* National First Prize, The 12th National Chinese Mathematics Competitions (CMC)
+- *Aug 2021* National Third Prize, The 10th China Software Cup 
+- *Oct 2023* Extraordinary Postgraduate Student, China University of Petroleum (East China)
 
 # 📖 Educations
 - *Sep 2022 - Present*, M.Sc., China University of Petroleum (East China). 
