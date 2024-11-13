@@ -56,9 +56,12 @@ redirect_from:
 - [MWMF-GLRW: Using Smart Model to Accurately Predict Noncoding RNA Interactions for Healthy Consumption](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/MWMF-GLRW_TCE.pdf), Tiyao Liu, Shudong Wang, Yawu Zhao, **Xiaodong Tan**, Shanchen Pang. Undergoing review in ***IEEE Transactions on Consumer Electronics***.
 
 # 🎖 Honors and Awards
-- *Dec 2020* National First Prize, The 12th National Chinese Mathematics Competitions (CMC)
-- *Aug 2021* National Third Prize, The 10th China Software Cup 
+- *Nov 2024* National Scholarship
 - *Oct 2023* Extraordinary Postgraduate Student, China University of Petroleum (East China)
+- *Aug 2021* National Third Prize, The 10th China Software Cup 
+- *Dec 2020* National First Prize, The 12th National Chinese Mathematics Competitions (CMC)
+
+
 
 # 📖 Educations
 - *Sep 2022 - Present*, M.Sc., China University of Petroleum (East China). 
