@@ -59,7 +59,7 @@ redirect_from:
 - *Nov 2024* National Scholarship
 - *Oct 2023* Extraordinary Postgraduate Student, China University of Petroleum (East China)
 - *Aug 2021* National Third Prize, The 10th China Software Cup 
-- *Dec 2020* National First Prize, The 12th National Chinese Mathematic Competitions (CMC)
+- *Dec 2020* National First Prize, The 12th National Chinese Mathematic Competition (CMC)
 
 
 
