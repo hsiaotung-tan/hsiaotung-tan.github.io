@@ -23,7 +23,7 @@ redirect_from:
 
 
 # 🔥 News
-
+- *Jan 2025*: &nbsp;🎉🎉 Our paper on [RNA Interactions](https://ieeexplore.ieee.org/abstract/document/10829811) was published in ***IEEE Transactions on Consumer Electronics***.
 - *Jul 2024*: &nbsp;🎉🎉 Our paper on [RGB Image Dehazing](in_press) has been accepted for publication in the proceedings of the ***International Conference on Machine Learning and Cybernetics (ICMLC) 2024***.
 - *Jun 2024*: &nbsp;🎉🎉 Our work on [Hyperspectral Image Denoising](https://ieeexplore.ieee.org/document/10557690) was published in ***IEEE Transactions on Geoscience and Remote Sensing***. 
 - *Apr 2024*: &nbsp;🎉🎉 Our work on the [fine tuning of the CLIP model](https://www.sciencedirect.com/science/article/abs/pii/S0045790624001988) was published in ***Computers and Electrical Engineering***.
@@ -39,21 +39,23 @@ redirect_from:
 
 ***IEEE Transactions on Geoscience and Remote Sensing***
 
-[**Paper**](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Low-Rank_Prompt-Guided_Transformer_for_Hyperspectral_Image_Denoising-1.pdf) <strong><span class='show_paper_citations' data='_SI0lcsAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/document/10557690) <strong><span class='show_paper_citations' data='_SI0lcsAAAAJ:u-x6o8ySG0sC'></span></strong>
 - We propose a Hyperspectral Denoising Transformer using Low-Rank Prompt (HyLoRa), simultaneously taking the spatial self-similarity and spectral low-rank property into account for HSI denoising. 
 </div>
 </div>
 
+
+- Tiyao Liu, Shudong Wang, Yawu Zhao, **Xiaodong Tan**, Shanchen Pang, [MWMF-GLRW: Using Smart Model to Accurately Predict Noncoding RNA Interactions for Healthy Consumption](https://ieeexplore.ieee.org/abstract/document/10829811), in ***IEEE Transactions on Consumer Electronics***.
+
 - Yuanjian Qiao, Mingwen Shao, **Xiaodong Tan** and Lingzhuang Meng, [Uncertainty Aware Diffusion Model for Real-World Image Dehazing](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/ICMLC.pdf), in Proceedings of ***ICMLC 2024***.
 
-- Haonan Wang, Mingwen Shao, **Xiaodong Tan** and Lixu Zhang,  [Model-aware prompt tuning with deep adpative feature enhancement](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Modal-aware%20prompt%20tuning%20with%20deep%20adaptive%20feature%20enhancement.pdf), in ***Computers and Electrical Engineering***.
+- Haonan Wang, Mingwen Shao, **Xiaodong Tan** and Lixu Zhang,  [Model-aware prompt tuning with deep adpative feature enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0045790624001988), in ***Computers and Electrical Engineering***.
 
 - Tiyao Liu, Shudong Wang, Yuanyuan Zhang, Chuanru Ren, Yunyin Li, **Xiaodong Tan** and Shanchen Pang, [Predicting small molecule-miRNA associations using matrix enhancement and collaborative double matrix completion](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Predicting_small_molecule_BSPC.pdf), undergoing review in ***Biomedical Signal Processing and Control***.
 
 
 - Tiyao Liu, Shudong Wang, Shanchen Pang and **Xiaodong Tan**, [Truncated Arctangent Rank Minimization and Double-strategy Neighborhood Constraint Graph Inference for Drug-Disease Association prediction](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/Truncated_Arctangent_Rank_JBI%20.pdf),  undergoing review in ***Journal of Biomedical Informatics***.
 
-- Tiyao Liu, Shudong Wang, Yawu Zhao, **Xiaodong Tan**, Shanchen Pang, [MWMF-GLRW: Using Smart Model to Accurately Predict Noncoding RNA Interactions for Healthy Consumption](https://github.com/hsiaotung-tan/hsiaotung-tan/blob/main/MWMF-GLRW_TCE.pdf), undergoing review in ***IEEE Transactions on Consumer Electronics***.
 
 # 🎖 Honors and Awards
 - *Nov 2024* National Scholarship
