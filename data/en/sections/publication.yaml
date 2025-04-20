@@ -1,0 +1,64 @@
+# section information
+section:
+  name: Publications
+  id: publications
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # template: sections/projects.html
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Hyperspectral Image
+  filter: "Hyperspectral Image"
+- name: Multimodal
+  filter: "Multimodal"
+- name: Bioinfomatics
+  filter: "Bioinfomatics"
+- name: Image Processing
+  filter: "Image Processing"
+
+
+publications:
+- title: Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising
+  publishedIn:
+    name: IEEE Transactions on Geoscience and Remote Sensing
+    date: 14 June 2024
+    url: https://ieeexplore.ieee.org/document/10557690
+  authors:
+  - name: Xiaodong Tan
+    url: https://hsiaotung.top
+  - name: Mingwen Shao
+    url: #
+  - name: Yuanjian Qiao
+    url: #
+  - name: Xiangyong Cao
+    url: https://gr.xjtu.edu.cn/web/caoxiangyong
+  paper:
+    summary: Hyperspectral image (HSI) denoising is an essential preprocessing step for downstream applications. Although vision transformer (ViT)-based approaches show impressive denoising performance through self-similarity modeling, these methods still fail to exploit spatial and spectral correlations while ensuring flexibility and efficacy. To address this issue, we propose a hyperspectral denoising transformer using low-rank prompt (HyLoRa), simultaneously taking the spatial self-similarity and spectral low-rank property into account for HSI denoising. Specifically, to fully utilize intrinsic similarity in spatial domain, we perform cross-shaped window-based spatial self-attention for effectively modeling local and global similarity. Moreover, to exploit low-rank inductive bias, we integrate a low-rank prompt module into attention calculation for counting corrected low-dimensional vectors from a large collection of HSIs. This helps to better refine underlying noise-free structure representations. Compared to existing works, powerful capabilities for modeling spatial and spectral correlations can be built to correct low-rank representation in the feature space. Extensive experiments on both simulated and real remote sensing noise demonstrate that our HyLoRa consistently surpasses the state-of-the-art methods.
+    url: https://ieeexplore.ieee.org/document/10557690
+  categories: ["Hyperspectral Image", "Image Processing"]
+  tags: ["Hyperspectral Image", "Image Processing"]
+- title: A Hybrid Model of State-Space Model and Attention for Hyperspectral Image Denoising
+  publishedIn:
+    name: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+    date: 28 March 2025
+    url: https://ieeexplore.ieee.org/document/10945605
+  authors:
+  - name: Xiaodong Tan
+    url: https://hsiaotung.top
+  - name: Mingwen Shao
+    url: #
+  - name: Kai Shang
+    url: #
+  - name: Xiangyong Cao
+    url: https://gr.xjtu.edu.cn/web/caoxiangyong
+  paper:
+    summary: "Hyperspectral images (HSIs) exhibit pronounced spatial similarity and spectral correlation. With these two physical properties taken into account, underlying clean HSI will be easier to derive from noisy images. However, existing denoising approaches struggle to model the spatial-spectral structure due to the following limitations: excessive memory consumption when performing global modeling, and insufficient effectiveness in local modeling. To address these issues, in this article, we propose HyMatt, a hybrid model of the state-space model and attention mechanism for HSI denoising. Specifically, to fully exploit global similarity within an HSI cube, we devise vision Mamba quad directions based on crafted cube selective scan (CSS) to capture long-range dependencies in a memory-efficient manner. Our CSS not only enhances global modeling capacity but also mitigates the negative impacts of causal modeling inherent in the SSM. Furthermore, in order to improve local similarity modeling, we integrate a local attention module, in which the adjacent elements are refined by adaptively utilizing similar neighboring features as guidance. Compared to existing methods, our HyMatt excels in exploiting local features while leveraging the global similarity within the entire HSI cube. Extensive experiments on both simulated and real remote sensing noisy images demonstrate that our HyMatt consistently surpasses the state-of-the-art HSIs denoising methods."
+    url: https://ieeexplore.ieee.org/document/10945605
+  categories: ["Hyperspectral Image", "Image Processing"]
+  tags: ["Hyperspectral Image", "Image Processing"]
+
