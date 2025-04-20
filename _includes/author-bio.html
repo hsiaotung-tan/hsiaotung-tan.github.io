@@ -1,8 +1,8 @@
 
 <!-- Define the symbols, these are invisible on the page -->
-<i data-fa-symbol="delete" class="fa-solid fa-trash fa-fw"></i>
+<!-- <i data-fa-symbol="delete" class="fa-solid fa-trash fa-fw"></i> -->
 <i data-fa-symbol="edit" class="fa-solid fa-pencil fa-fw"></i>
-<i data-fa-symbol="favorite" class="fa-solid fa-star fa-fw"></i>
+<!-- <i data-fa-symbol="favorite" class="fa-solid fa-star fa-fw"></i> -->
 
 
 
@@ -13,7 +13,7 @@
 
 <p>{{ site.owner.bio }}</p>
 
-{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><svg><use href="#edit"></use></svg> Email</a></p>{% endif %}
+{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i data-fa-symbol="edit" class="fa-solid fa-pencil fa-fw"></i> Email</a></p>{% endif %}
 
 {% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="16.5" height="16.5"></i> My CV</a></p>{% endif %}
 
