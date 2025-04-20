@@ -51,7 +51,7 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://hsiaotung-tan.github.io
-
+  gitBranch: master
   features:
     # Enable portfolio section
     portfolio:
