@@ -1,5 +1,4 @@
 title: Hsiao-Tung
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://hsiaotung.top
@@ -8,7 +7,7 @@ url: https://hsiaotung.top
 owner:
   name: Xiaodong Tan
   avatar: logo.png
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  # bio: 
   email: reyes.tan@foxmail.com
   cv: ./file/CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -16,11 +15,11 @@ owner:
   github: hsiaotung-tan
   # linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=_SI0lcsAAAAJ
-  # bilibili: 594030035
+  # bilibili: 
   researchgate: https://www.researchgate.net/profile/Xiaodong-Tan-11
-  # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  # zhihu: 
+  # facebook: 
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship

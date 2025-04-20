@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="logo.png" class="floatpic">
+<!-- <img src="logo.png" class="floatpic"> -->
 
 Here is **Hsiao-Tung Tan (Xiaodong, 谭效东)**.<br>
 
