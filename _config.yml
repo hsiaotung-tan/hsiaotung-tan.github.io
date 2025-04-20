@@ -2,12 +2,12 @@ title: Hsiao-Tung
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://hsiaotung.top
 
 # Owner/author information
 owner:
   name: Xiaodong Tan
-  avatar: logo.png
+  avatar: ./file/imgslogo.png
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: reyes.tan@foxmail.com
   cv: ./file/CV.pdf
