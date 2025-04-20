@@ -13,7 +13,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: hsiaotung-tan
-  # linkedin: hanlincai
+  # linkedin: 
   scholar: https://scholar.google.com/citations?user=_SI0lcsAAAAJ
   # bilibili: 
   researchgate: https://www.researchgate.net/profile/Xiaodong-Tan-11
@@ -78,7 +78,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: xiaodong
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
