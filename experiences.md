@@ -11,5 +11,5 @@ title: Experiences
 
 ## Shandong University of Science and Technology
 
-- Computer Science and Technology Bachelor of Engineering
+- Computer Science and Technology, Bachelor of Engineering
 - Sep. 2018 - Jun. 2022.
