@@ -30,7 +30,7 @@ owner:
 google_verify: "T0j1tyVwMYaWkAx90pC3-HP2v4o5o1Ng8JFsEt2W0KE"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
+bing_verify: "48067B6E4F6CF9088EFA6E9D51254EC6"
 
 # Links to include in top navigation
 # For external links add external: true
