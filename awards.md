@@ -6,8 +6,10 @@ title: Awards
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
+- Dec. 2024：**National Scholarship**.
+- Oct. 2023: **Extraordinary Postgraduate Student**.
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
+- Dec. 2020：**National First Prize in National Chinese Mathematics Competitions (CMC)**.
+- Aug. 2021: **National Third Prize in China Software Cup**.
