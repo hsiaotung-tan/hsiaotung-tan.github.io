@@ -9,19 +9,15 @@ title: Publications
 ## Working Paper
 
 - No working paper!
----
 
+---
 ## Conference Paper
 
 - [MoE-based Mamba for Multi-scene Universal Remote Sensing Semantic Segmentation](in_press)<br>Jie Zhang, Mingwen Shao\*, **Xiaodong Tan**, Xiangyong Cao<br>IEEE International Conference on Multimedia & Expo, Nantes, France. June 30 to July 4, 2025.<br>\[[Link(in press)](in_press)\] \[[Code](https://github.com/quanquans931225/MoE-SegMamba)\]
 
 - [Uncertainty-Aware Diffusion Model for Real-World Image Dehazing](https://ieeexplore.ieee.org/document/10935007)<br>Yuanjian Qiao, Mingwen Shao\*, **Xiaodong Tan**, Lingzhuang Meng<br>International Conference on Machine Learning and Cybernetics, Miyazaki, Japan. September, 2024.<br>\[[Link](https://ieeexplore.ieee.org/document/10935007)\]
 
-<br>
-
-
 ---
-
 ## Journal Paper
 
 - [A Hybrid Model of State Space Model and Attention for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/abstract/document/10945605/)<br>Mingwen Shao†,**Xiaodong Tan†\***, Kai Shang, Xiangyong Cao<br>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, March, 2025.<br>\[[Link](https://ieeexplore.ieee.org/abstract/document/10945605/)\]
@@ -33,6 +29,3 @@ title: Publications
 - [Low-Rank Prompt-Guided Transformer for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/document/10557690)<br>**Xiaodong Tan**, Mingwen Shao\*, Yuanjian Qiao, Xiangyong Cao<br>IEEE Transactions on Geoscience and Remote Sensing, June, 2024.<br>\[[Link](https://ieeexplore.ieee.org/document/10557690)\] \[[Code](https://github.com/hsiaotung-tan/HyLoRa)\]
 
 - [Modal-aware prompt tuning with deep adaptive feature enhancement](https://www.sciencedirect.com/science/article/pii/S0045790624001988)<br>Haonan Wang, Mingwen Shao\*, **Xiaodong Tan**, Lixu Zhang<br>Computers and Electrical Engineering, July, 2024.<br>\[[Link](https://www.sciencedirect.com/science/article/pii/S0045790624001988)\]
-
-
-<br>
