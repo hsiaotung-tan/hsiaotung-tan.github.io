@@ -20,7 +20,7 @@ title: Publications
 ---
 ## Journal Paper
 
-- [WaveletMamba: Wavelet-based state space model for low light image enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0141938225001374)<br>Kai Shang, Mingwen Shao†, Chao Wang, **Xiaodong Tan**<br>Displays, Jun., 2025.<br>\[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0141938225001374)\]
+- [WaveletMamba: Wavelet-based state space model for low light image enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0141938225001374)<br>Kai Shang, Mingwen Shao\*, Chao Wang, **Xiaodong Tan**<br>Displays, Jun., 2025.<br>\[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0141938225001374)\]
 
 - [A Hybrid Model of State Space Model and Attention for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/abstract/document/10945605/)<br>Mingwen Shao†,**Xiaodong Tan†\***, Kai Shang, Xiangyong Cao<br>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, March, 2025.<br>\[[Link](https://ieeexplore.ieee.org/abstract/document/10945605/)\]
 
