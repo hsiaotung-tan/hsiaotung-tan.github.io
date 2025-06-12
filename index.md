@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="MyPic.jpg" class="floatpic">
+<img src="/images/MyPic.jpg" class="floatpic">
 
 Here is **Hsiao-Tung Tan (Xiaodong, 谭效东)**.<br>
 
