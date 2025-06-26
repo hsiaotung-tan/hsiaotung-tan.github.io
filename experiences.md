@@ -4,6 +4,12 @@ permalink: /experiences/index.html
 title: Experiences
 ---
 
+## Goertek Optical
+
+- Engineer (? perhaps)
+- Jul. 2025 - Current
+
+
 ## China University of Petroleum (East China)
 
 - Computer Science and Technology, Master of Science
