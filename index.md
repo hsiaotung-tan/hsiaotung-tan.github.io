@@ -8,7 +8,7 @@ layout: page
 
 Here is **Hsiao-Tung Tan (Xiaodong, 谭效东)**.<br>
 
-I’m Xiaodong Tan. I received Master’s degree in Computer Science and Technology at China University of Petroleum (East China). Before that, I received my Bachelor’s degree at Shandong University of Science and Technology. 
+I received Master’s degree in Computer Science and Technology at China University of Petroleum (East China). Before that, I received my Bachelor’s degree at Shandong University of Science and Technology. 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - reyes.tan [at] foxmail.com
 
