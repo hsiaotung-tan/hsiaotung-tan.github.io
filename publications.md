@@ -20,6 +20,15 @@ title: Publications
 ---
 ## Journal Paper
 
+- [Predicting small molecule-miRNA associations using matrix enhancement and collaborative double matrix completion](https://www.sciencedirect.com/science/article/abs/pii/S1746809425010535)<br>Tiyao Liu, Shudong Wang, Yuanyuan Zhang, Chuanru Ren, Yunyin Li, **Xiaodong Tan**, Shanchen Pang<br> Biomedical Signal Processing and Control, Feb., 2026.<br>\[[Link](https://www.sciencedirect.com/science/article/abs/pii/S1746809425010535)\]
+
+
+- [A rapid prediction model for MiRNA-LncRNA interactions utilizing multi-view projection fusion and random parallel matrix factorization](https://www.sciencedirect.com/science/article/abs/pii/S0141813025059598)<br>Tiyao Liu, Shudong Wang, Sibo Qiao, Yawu Zhao, Kuijie Zhang, **Xiaodong Tan**, Wenhao Wu
+, Shaoqiang Wang<br> Biomedical Signal Processing and Control, Feb., 2026.<br>\[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0141813025059598)\]
+
+
+- [DiffRA: universal restorative adversarial attack based on diffusion model](https://link.springer.com/article/10.1007/s00530-025-01971-7)<br>Mingwen Shao, Wenjie Liu, Lingzhuang Meng, Huan Liu， **Xiaodong Tan**<br> Multimedia Systems, Aug., 2025.<br>\[[Link](https://link.springer.com/article/10.1007/s00530-025-01971-7)\]
+
 - [WaveletMamba: Wavelet-based state space model for low light image enhancement](https://www.sciencedirect.com/science/article/abs/pii/S0141938225001374)<br>Kai Shang, Mingwen Shao\*, Chao Wang, **Xiaodong Tan**<br>Displays, Jun., 2025.<br>\[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0141938225001374)\]
 
 - [A Hybrid Model of State Space Model and Attention for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/abstract/document/10945605/)<br>Mingwen Shao†,**Xiaodong Tan†\***, Kai Shang, Xiangyong Cao<br>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, March, 2025.<br>\[[Link](https://ieeexplore.ieee.org/abstract/document/10945605/)\]
